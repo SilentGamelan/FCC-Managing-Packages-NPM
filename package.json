@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "SilentGamelan",
+	"description": "A package to fulfil tests for FCC managing packages project",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
